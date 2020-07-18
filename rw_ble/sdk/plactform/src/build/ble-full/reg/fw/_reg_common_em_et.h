@@ -1,0 +1,10 @@
+#ifndef __REG_COMMON_EM_ET_H_
+#define __REG_COMMON_EM_ET_H_
+
+#define REG_COMMON_EM_ET_SIZE 4
+
+#define REG_COMMON_EM_ET_BASE_ADDR   0x00924000       //bk3268:0x00924000,  bk3435:0x00814000
+
+
+#endif // __REG_COMMON_EM_ET_H_
+

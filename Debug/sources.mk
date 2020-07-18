@@ -1,0 +1,94 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+OBJ_SRCS := 
+S_SRCS := 
+SX_SRCS := 
+ASM_UPPER_SRCS := 
+ASM_SRCS := 
+C_SRCS := 
+S_UPPER_SRCS := 
+O_SRCS := 
+BA_SIZE_DISPLAY := 
+BA_OBJCOPY_OUTPUT := 
+SX_DEPS := 
+EXECUTABLES := 
+OBJS := 
+S_DEPS := 
+S_UPPER_DEPS := 
+C_DEPS := 
+
+# Every subdirectory with source files must be described here
+SUBDIRS := \
+rw_ble/sdk/plactform/src/core_modules/rwip/src \
+rw_ble/sdk/plactform/src/core_modules/nvds/src \
+rw_ble/sdk/plactform/src/arch/ll \
+rw_ble/sdk/ble_stack/ble/profiles/wechat/src \
+rw_ble/sdk/ble_stack/ble/profiles/tip/tips/src \
+rw_ble/sdk/ble_stack/ble/profiles/tip/tipc/src \
+rw_ble/sdk/ble_stack/ble/profiles/scpp/scpps/src \
+rw_ble/sdk/ble_stack/ble/profiles/scpp/scppc/src \
+rw_ble/sdk/ble_stack/ble/profiles/rscp/rscps/src \
+rw_ble/sdk/ble_stack/ble/profiles/rscp/rscpc/src \
+rw_ble/sdk/ble_stack/ble/profiles/prox/proxr/src \
+rw_ble/sdk/ble_stack/ble/profiles/prox/proxm/src \
+rw_ble/sdk/ble_stack/ble/profiles/pasp/pasps/src \
+rw_ble/sdk/ble_stack/ble/profiles/pasp/paspc/src \
+rw_ble/sdk/ble_stack/ble/profiles/ota/src \
+rw_ble/sdk/ble_stack/ble/profiles/lan/lans/src \
+rw_ble/sdk/ble_stack/ble/profiles/lan/lanc/src \
+rw_ble/sdk/ble_stack/ble/profiles/htp/htpt/src \
+rw_ble/sdk/ble_stack/ble/profiles/htp/htpc/src \
+rw_ble/sdk/ble_stack/ble/profiles/hrp/hrps/src \
+rw_ble/sdk/ble_stack/ble/profiles/hrp/hrpc/src \
+rw_ble/sdk/ble_stack/ble/profiles/hogp/hogprh/src \
+rw_ble/sdk/ble_stack/ble/profiles/hogp/hogpm/src \
+rw_ble/sdk/ble_stack/ble/profiles/hogp/hogpd/src \
+rw_ble/sdk/ble_stack/ble/profiles/hogp/hogpbh/src \
+rw_ble/sdk/ble_stack/ble/profiles/glp/glps/src \
+rw_ble/sdk/ble_stack/ble/profiles/glp/glpc/src \
+rw_ble/sdk/ble_stack/ble/profiles/find/findt/src \
+rw_ble/sdk/ble_stack/ble/profiles/find/findl/src \
+rw_ble/sdk/ble_stack/ble/profiles/dis/diss/src \
+rw_ble/sdk/ble_stack/ble/profiles/dis/disc/src \
+rw_ble/sdk/ble_stack/ble/profiles/cscp/cscps/src \
+rw_ble/sdk/ble_stack/ble/profiles/cscp/cscpc/src \
+rw_ble/sdk/ble_stack/ble/profiles/cpp/cpps/src \
+rw_ble/sdk/ble_stack/ble/profiles/cpp/cppc/src \
+rw_ble/sdk/ble_stack/ble/profiles/blp/blps/src \
+rw_ble/sdk/ble_stack/ble/profiles/blp/blpc/src \
+rw_ble/sdk/ble_stack/ble/profiles/bas/bass/src \
+rw_ble/sdk/ble_stack/ble/profiles/bas/basc/src \
+rw_ble/sdk/ble_stack/ble/profiles/anp/anps/src \
+rw_ble/sdk/ble_stack/ble/profiles/anp/anpc/src \
+rw_ble/sdk/ble_stack/ble/profiles/ancs/ancsc/src \
+rw_ble/sdk/ble_stack/ble/profiles/FFF0/src \
+rw_ble/sdk/ble_stack/ble/profiles/FFE0/src \
+rw_ble/sdk/ble_stack/ble/profiles/FCC0/util \
+rw_ble/sdk/ble_stack/ble/profiles/FCC0/src \
+rw_ble/sdk/ble_stack/ble/ll/src/rwble \
+rw_ble/sdk/ble_stack/ble/hl/src/rwble_hl \
+rw_ble/sdk/ble_stack/ble/hl/src/prf \
+rw_ble/project/app \
+host/port/usb/src/test/msd \
+host/port/usb/src/systems/none \
+host/port/usb/src/systems/none/afs \
+host/port/usb/src/lib \
+host/port/usb/src/functions/trans_fn \
+host/port/usb/src/examples/msd \
+host/port/usb/src/drivers/msd \
+host/port/usb/src/cd \
+host/port/common \
+host/port/common/bluetooth \
+host/port/common/audio_out_interface \
+host/port/beken_no_os \
+host/port/beken_no_os/pts \
+host/port/beken_driver \
+host/port/beken_app \
+host/libs/Mp3Lib \
+host/libs/FatLib \
+host/bluetooth/profile/spp \
+controller/hal/beken/sys \
+controller/hal/beken/hw \
+

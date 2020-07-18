@@ -1,0 +1,2 @@
+---- wave_type: Matches (1 in 1 files) ----
+App_player.c (host\port\beken_app):        os_printf("wave_type: %d, freq: %d, channel: %d, bits: %d\r\n", wav_info.fmtTag,
